@@ -17,7 +17,7 @@ module.exports = {
         repositoryName: "flamesoles-gatsby",
         //customTypesApiToken: process.env.PRISMIC_CUSTOM_TYPES_API_TOKEN,
         customTypesApiToken:
-          "MC5ZM0VpV0JRQUFNSzcySzhL.We-_vS3vv73vv73vv71iADgKBhg_77-9be-_vRTvv73vv73vv73vv73vv71_Ju-_ve-_vXRG77-977-9Nlw",
+          "",
       },
     },
     `gatsby-plugin-react-helmet`,
